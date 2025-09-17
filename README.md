@@ -30,14 +30,14 @@ This project showcases my skills, featured projects, and experience in software 
 
 ## 📸 Preview
 
-![Portfolio Preview](https://via.placeholder.com/1200x600?text=Portfolio+Preview)
-*(Replace with actual screenshot of your website)*
+<img width="1863" height="866" alt="{022D7630-84E0-4B63-B302-388365C8DB0B}" src="https://github.com/user-attachments/assets/f9c6d2c4-21c2-40da-acec-ef7aeed03468" />
+
 
 ---
 
 ## 🔗 Live Demo
 
-👉 [View Portfolio](#) *(Add your deployed link here, e.g., GitHub Pages, Netlify, or Vercel)*
+👉 
 
 ---
 
