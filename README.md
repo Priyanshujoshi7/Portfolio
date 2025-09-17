@@ -63,7 +63,7 @@ This project showcases my skills, featured projects, and experience in software 
 
 * 📧 Email: [gopriyanshu7027@gmail.com](mailto:gopriyanshu7027@gmail.com)
 * 📞 Phone: +91 7027531734
-* 🌐 Portfolio: *(Add your live site link once deployed)*
+* 🌐 Portfolio: (https://priyanshujoshi7.github.io/Portfolio/)
 * 💼 LinkedIn: [Priyanshu Joshi](https://www.linkedin.com/in/priyanshujoshi2495/)
 * 🐙 GitHub: [Priyanshujoshi7](https://github.com/Priyanshujoshi7)
 * 💻 LeetCode: [Priyanshu\_7027](https://leetcode.com/u/Priyanshu_7027/)
